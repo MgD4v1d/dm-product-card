@@ -5,7 +5,7 @@ exports[`Pruebas en <ProductImage /> debe de mostrar el componente con la imagen
   className="productCard undefined"
 >
   <img
-    alt="Product images"
+    alt=""
     className="productImg undefined"
     src="./coffee-mug2.png"
   />
@@ -14,7 +14,7 @@ exports[`Pruebas en <ProductImage /> debe de mostrar el componente con la imagen
 
 exports[`Pruebas en <ProductImage /> debe de mostrar el componente con la url por argumento en la imagen 1`] = `
 <img
-  alt="Product images"
+  alt=""
   className="productImg undefined"
   src="../../src/assets/no-image.jpg"
 />
