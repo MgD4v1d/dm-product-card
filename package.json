@@ -38,16 +38,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "dm-product-card",
+  "name": "dm-product-card-rt-22",
   "author": "Dave Mg",
-  "module": "dist/dm-product-card.esm.js",
+  "module": "dist/dm-product-card-rt-22.esm.js",
   "size-limit": [
     {
-      "path": "dist/dm-product-card.cjs.production.min.js",
+      "path": "dist/dm-product-card-rt-22.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/dm-product-card.esm.js",
+      "path": "dist/dm-product-card-rt-22.esm.js",
       "limit": "10 KB"
     }
   ],
